@@ -1,0 +1,8 @@
+com/cainiao/training/dto/DemoDTO.class
+com/cainiao/training/service/DemoService.class
+com/cainiao/training/infra/DemoTairClient.class
+com/cainiao/training/util/DemoLandlordClient.class
+com/cainiao/training/infra/DemoDBMapper.class
+com/cainiao/training/util/DemoUtil.class
+com/cainiao/training/util/RequestValidator.class
+com/cainiao/training/controller/DemoController.class

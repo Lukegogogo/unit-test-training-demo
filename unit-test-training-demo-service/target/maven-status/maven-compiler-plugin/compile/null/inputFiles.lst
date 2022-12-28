@@ -1,0 +1,8 @@
+/Users/ql-pc/Downloads/unit-test-training-demo/unit-test-training-demo-service/src/main/java/com/cainiao/training/util/RequestValidator.java
+/Users/ql-pc/Downloads/unit-test-training-demo/unit-test-training-demo-service/src/main/java/com/cainiao/training/controller/DemoController.java
+/Users/ql-pc/Downloads/unit-test-training-demo/unit-test-training-demo-service/src/main/java/com/cainiao/training/dto/DemoDTO.java
+/Users/ql-pc/Downloads/unit-test-training-demo/unit-test-training-demo-service/src/main/java/com/cainiao/training/util/DemoLandlordClient.java
+/Users/ql-pc/Downloads/unit-test-training-demo/unit-test-training-demo-service/src/main/java/com/cainiao/training/util/DemoUtil.java
+/Users/ql-pc/Downloads/unit-test-training-demo/unit-test-training-demo-service/src/main/java/com/cainiao/training/infra/DemoDBMapper.java
+/Users/ql-pc/Downloads/unit-test-training-demo/unit-test-training-demo-service/src/main/java/com/cainiao/training/infra/DemoTairClient.java
+/Users/ql-pc/Downloads/unit-test-training-demo/unit-test-training-demo-service/src/main/java/com/cainiao/training/service/DemoService.java
