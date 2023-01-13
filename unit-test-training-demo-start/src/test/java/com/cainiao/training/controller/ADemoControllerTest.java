@@ -25,7 +25,7 @@ public class ADemoControllerTest {
 
     @Before
     public void setUp() {
-        MockitoAnnotations.openMocks(this);
+        MockitoAnnotations.initMocks(this);
     }
 
     @Test
