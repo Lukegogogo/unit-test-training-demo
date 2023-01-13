@@ -2,8 +2,8 @@ package com.cainiao.training.service;
 
 import com.cainiao.training.infra.DemoDBMapper;
 import com.cainiao.training.infra.DemoTairClient;
-import com.taobao.pandora.boot.loader.util.StringUtils;
 import org.springframework.stereotype.Component;
+import org.springframework.util.StringUtils;
 
 import javax.annotation.Resource;
 import java.io.IOException;

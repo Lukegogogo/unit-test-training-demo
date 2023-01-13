@@ -1,7 +1,6 @@
 package com.cainiao.training.infra;
 
 import com.cainiao.training.util.DemoLandlordClient;
-import com.taobao.pandora.boot.loader.util.StringUtils;
 import org.springframework.stereotype.Component;
 import org.springframework.util.CollectionUtils;
 
